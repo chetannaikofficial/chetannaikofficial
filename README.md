@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chetan Naik @chetannaikofficial
 - 👀 I’m interested in playing around Cloud computing and automating IT stuffs with PowerShell
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on DevOps teams to learn
+- 💞️ I’m looking to collaborate with DevOps and tech teams to learn and grow
 - ✉️ How to reach me: cn_chetan@hotmail.com
 - 💻	 My Website: https://www.chetannaik.com/
 
